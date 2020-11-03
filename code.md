@@ -46,7 +46,7 @@
   Despite the name, a page object does not have to handle an entire page.  On a more complex web page, there can be multiple page objects  that each handle a different UI feature  on the same page. 
   We may have common actions that need to be used across multiple test files. To avoid repeating code, we can store those common actions in a Base Page Object. (In our code, it  is in the lib folder.)
 
-  Resources:
-  Test Cafe docs - Page Object Model - https://devexpress.github.io/testcafe/documentation/recipes/extract-reusable-test-code/use-page-model.htm
-  Page Object Model - https://medium.com/tech-tajawal/page-object-model-pom-design-pattern-f9588630800b
-  Using a Base Page Object - http://elementalselenium.com/tips/9-use-a-base-page-object 
+  Resources:  
+  Test Cafe docs - Page Object Model - https://devexpress.github.io/testcafe/documentation/recipes/extract-reusable-test-code/use-page-model.htm  
+  Page Object Model - https://medium.com/tech-tajawal/page-object-model-pom-design-pattern-f9588630800b  
+  Using a Base Page Object - http://elementalselenium.com/tips/9-use-a-base-page-object   
